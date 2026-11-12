@@ -856,7 +856,7 @@
     "phase": "Phase 5: QQ Classics 3D & Bilibili Remakes",
     "playUrl": "https://kunruiw1991.github.io/critters-drawing-school/",
     "repoUrl": "https://github.com/kunruiw1991/critters-drawing-school",
-    "desc": "10 playable lessons (all 8 Smiling Critters: CatNap, DogDay, Bobby BearHug, Hoppy Hopscotch, CraftyCorn, PickyPiggy, Bubba Bubbaphant, KickinChicken + Rainbow Friend & Berry Cupcake Bear), 6 guided drawing steps with animated floating teacher pencil (`START` -> `★`), 7 part-by-part clipped coloring steps (`main_fur`, `inner_ears_muzzle`, `tummy_collar`, `cheeks_mouth`, `magic_pendant`, `shading_sparkles`, `background_frame`) with 4 brushes & `★ PICK ME` color hints, living dance party finale, and 26 neural English voiceovers",
+    "desc": "8 lessons, one per Smiling Critter (CatNap, DogDay, Bobby BearHug, Hoppy Hopscotch, CraftyCorn, PickyPiggy, Bubba Bubbaphant, KickinChicken), each traced from its own line art: 6 guided drawing steps with a slow one-pass teacher pencil, 7 part-by-part coloring steps with a starred teacher crayon, sketchbook UI for iPad and phone, dance party finale, and 26 neural English voiceovers",
     "thumbUrl": "https://raw.githubusercontent.com/kunruiw1991/critters-drawing-school/main/screenshot.jpg"
   }
 ]
