@@ -70,6 +70,12 @@ def main():
         "",
         f"> **Live Arcade Homepage**: [https://kunruiw1991.github.io/](https://kunruiw1991.github.io/) · **{total} Playable Kids' Web Games & Interactive Studios** (`{first_date}` to `{last_date}`, sorted in chronological order).",
         "",
+        "## 📱 Quick Play List (tap a game — newest first)",
+        "",
+        *[f"- **#{g['numStr']}** · [{g['title']}]({g['playUrl']})" for g in reversed(games)],
+        "",
+        "## 🗂️ Full Chronological Table",
+        "",
         "| # | Created (UTC) | Game Title | Live Game (GitHub Pages) | GitHub Repo | Engine / Genre | Highlights |",
         "| :-: | :--- | :--- | :---: | :--- | :--- | :--- |",
     ]
@@ -103,6 +109,10 @@ def main():
     html = re.sub(r"#\d+→#01", f"#{last_num}→#01", html)
     html = re.sub(r"All \d+ Games", f"All {total} Games", html)
     html = re.sub(r"<strong>\d+ Kids' Web Games", f"<strong>{total} Kids' Web Games", html)
+    html = re.sub(r"to <strong>\d{4}-\d{2}-\d{2}</strong> in strict", f"to <strong>{last_date}</strong> in strict", html)
+    for ph in sorted({g["phase"] for g in games}):
+        n = sum(1 for g in games if g["phase"] == ph)
+        html = re.sub(r'(data-phase="' + re.escape(ph).replace("&", "&(?:amp;)?") + r'">[^<]*\()\d+(\)</button>)', lambda m: f"{m.group(1)}{n}{m.group(2)}", html)
     html = re.sub(
         r"const GAMES = \[.*?\];\n    let activePhase",
         f"const GAMES = {json.dumps(games, ensure_ascii=False)};\n    let activePhase",

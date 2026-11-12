@@ -826,5 +826,37 @@
     "desc": "Inspired by the Derpy Tiger Minecraft Chapter animation (YouTube EgruEB4oZ2E) and gameplay reference (YouTube WjAyI6kwylA): 5-zone 72x72 Voxel Minecraft Chapter map (Moonlit Rooftop Portal Hub, Village Rooftops & Cookie Garden, Underground Drill Tunnel & Carrot Farm, Red Laser Security House & Closet Portal Loft, Lava Parkour Vault & HUNTR/X Comeback Stage); custom 3D Derpy Tiger rig preserving his round face and twin round butt cheeks (buttL/buttR) from KPop Demon Hunters Repair Workshop 3D alongside Sussie the 6-Eyed Magpie, Rumi, and Voxel Mikey; Mario 3D Jump (#btn-hud-jump / Space) & Super Mario Odyssey returning throw (#btn-hud-drum); 4 Tipped-to-Upright Porcelain Peony Flowerpots, 5 3D Weapons, 4 Quadrant Minecraft Bosses, and 68 neural English MP3 voiceovers.",
     "phase": "Phase 5: QQ Classics 3D & Bilibili Remakes",
     "thumbUrl": "https://raw.githubusercontent.com/kunruiw1991/derpy-tiger-minecraft-3d/main/screenshot.jpg"
+  },
+  {
+    "num": 64,
+    "numStr": "64",
+    "date": "2026-11-10 20:07",
+    "createdAt": "2026-11-10T20:07:00Z",
+    "slug": "huntrix-critters-minish-cap-3d",
+    "title": "HUNTR/X & Smiling Critters: The Minish Cap 3D! (塞尔达传说：缩小帽 × HUNTR/X & Smiling Critters)",
+    "cat": "3d",
+    "catLabel": "3D WebGL Game",
+    "genre": "Three.js r170 3D WebGL2 Size-Shifting Adventure • 68 Neural English Voiceovers",
+    "phase": "Phase 5: QQ Classics 3D & Bilibili Remakes",
+    "playUrl": "https://kunruiw1991.github.io/huntrix-critters-minish-cap-3d/",
+    "repoUrl": "https://github.com/kunruiw1991/huntrix-critters-minish-cap-3d",
+    "desc": "Inspired by Bilibili `BV13c411b7ee` (*The Legend of Zelda: The Minish Cap*): 6 easy-to-reach glowing Minish Shrink Portals (Magic Tree Stump & Tipped Porcelain Jar right beside Hub spawn + 4 tunnel entrance portals, 1-tap & auto-shrink tunnel assist, `0.34x` Minish size scaling + micro-perspective camera zoom); 4 walkable 3D Tiny-Only Micro-Passages (`hollow_log_tunnel`, `dollhouse_mousehole_tunnel`, `lilypad_bamboo_tunnel`, `bookshelf_gear_tunnel`); HUNTR/X Rumi, Mira, Zoey, Derpy Tiger (with round Minhwa face, twin round butt spheres & Ezlo × Sussie Bird-Billed Minish Cap) & Smiling Critters (CatNap, DogDay, Hoppy Hopscotch, Bobby BearHug); 5 Minish Cap weapons (Picori Short Sword, Gust Jar, Cane of Pacci, Mole Mitts, Four Sword), 4 Bosses (Giant ChuChu, Gleerok, Mazaal, Vaati), and 68 neural English MP3 voiceovers.",
+    "thumbUrl": "https://raw.githubusercontent.com/kunruiw1991/huntrix-critters-minish-cap-3d/main/screenshot.jpg"
+  },
+  {
+    "num": 65,
+    "numStr": "65",
+    "date": "2026-11-11 01:59",
+    "createdAt": "2026-11-11T01:59:00Z",
+    "slug": "critters-drawing-school",
+    "title": "Smiling Critters Drawing & Step-by-Step Coloring School!",
+    "cat": "2d",
+    "catLabel": "2D Canvas Studio",
+    "genre": "HTML5 Canvas 2D / Guided Drawing & 7-Part Coloring Studio",
+    "phase": "Phase 5: QQ Classics 3D & Bilibili Remakes",
+    "playUrl": "https://kunruiw1991.github.io/critters-drawing-school/",
+    "repoUrl": "https://github.com/kunruiw1991/critters-drawing-school",
+    "desc": "10 playable lessons (all 8 Smiling Critters: CatNap, DogDay, Bobby BearHug, Hoppy Hopscotch, CraftyCorn, PickyPiggy, Bubba Bubbaphant, KickinChicken + Rainbow Friend & Berry Cupcake Bear), 6 guided drawing steps with animated floating teacher pencil (`START` -> `★`), 7 part-by-part clipped coloring steps (`main_fur`, `inner_ears_muzzle`, `tummy_collar`, `cheeks_mouth`, `magic_pendant`, `shading_sparkles`, `background_frame`) with 4 brushes & `★ PICK ME` color hints, living dance party finale, and 26 neural English voiceovers",
+    "thumbUrl": "https://raw.githubusercontent.com/kunruiw1991/critters-drawing-school/main/screenshot.jpg"
   }
 ]

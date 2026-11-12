@@ -1,6 +1,76 @@
-# 📌 Complete Chronological Game Index (`#01` → `#63`)
+# 📌 Complete Chronological Game Index (`#01` → `#65`)
 
-> **Live Arcade Homepage**: [https://kunruiw1991.github.io/](https://kunruiw1991.github.io/) · **63 Playable Kids' Web Games & Interactive Studios** (`2026-09-21` to `2026-11-09`, sorted in chronological order).
+> **Live Arcade Homepage**: [https://kunruiw1991.github.io/](https://kunruiw1991.github.io/) · **65 Playable Kids' Web Games & Interactive Studios** (`2026-09-21` to `2026-11-11`, sorted in chronological order).
+
+## 📱 Quick Play List (tap a game — newest first)
+
+- **#65** · [Smiling Critters Drawing & Step-by-Step Coloring School!](https://kunruiw1991.github.io/critters-drawing-school/)
+- **#64** · [HUNTR/X & Smiling Critters: The Minish Cap 3D! (塞尔达传说：缩小帽 × HUNTR/X & Smiling Critters)](https://kunruiw1991.github.io/huntrix-critters-minish-cap-3d/)
+- **#63** · [Derpy Tiger Minecraft Chapter 3D: Round-Face & Round-Butt Tiger, Sussie, Rumi & Voxel Mikey Adventure!](https://kunruiw1991.github.io/derpy-tiger-minecraft-3d/)
+- **#62** · [Playtime Prank RPG 3D: Lily, Giblet & The Smiling Critters' Silly Prank Party!](https://kunruiw1991.github.io/playtime-prank-rpg-3d/)
+- **#61** · [JJ & Mikey vs Tung Tung Sahur: McDonald's Burger Battle 3D! (Poor vs Rich McDonald's + Sahur Drive-Thru)](https://kunruiw1991.github.io/jj-mikey-sahur-burger-3d/)
+- **#60** · [Tung Tung Tung Sahur 3D: Brainrot Rhythm Island!](https://kunruiw1991.github.io/tung-tung-sahur-3d/)
+- **#59** · [Lucky Block Titans 3D](https://kunruiw1991.github.io/lucky-block-titans/)
+- **#58** · [New Era for the Myriad Souls (3D Pop-Up Stage Studio)](https://kunruiw1991.github.io/endfield-sauin-studio/)
+- **#57** · [Panda Pop Star Party](https://kunruiw1991.github.io/panda-game/)
+- **#56** · [Mob Beauty Pageant 3D (生物选美大赛)](https://kunruiw1991.github.io/mob-beauty-pageant/)
+- **#55** · [Angry Birds Musou (愤怒的小鸟 无双版 — 10× Buffed)](https://kunruiw1991.github.io/angry-birds-musou/)
+- **#54** · [QQ Game Hall 3D Portal (QQ游戏大厅 3D — 四大经典合集)](https://kunruiw1991.github.io/qq-game-hall-3d/)
+- **#53** · [Synthetic Big Watermelon 3D (合成大西瓜 3D)](https://kunruiw1991.github.io/qq-watermelon-3d/)
+- **#52** · [QQ Aeroplane Chess 3D (QQ飞行棋 3D)](https://kunruiw1991.github.io/qq-aeroplane-chess-3d/)
+- **#51** · [QQ Bubble Dragon Shooter 3D (QQ泡泡龙 3D)](https://kunruiw1991.github.io/qq-bubble-dragon-3d/)
+- **#50** · [QQ Tang 3D: Candy Bubble Arena (QQ堂 3D)](https://kunruiw1991.github.io/qq-tang-3d/)
+- **#49** · [KPop Demon Hunters Repair Workshop 3D](https://kunruiw1991.github.io/demon-hunter-repair-workshop/)
+- **#48** · [FORi Flower Studio (花裡線上插花工坊)](https://kunruiw1991.github.io/fori-flower-studio/)
+- **#47** · [Bonny Balls (虫子祖玛 — Kid-Speed Edition)](https://kunruiw1991.github.io/bonny-balls/)
+- **#46** · [Critter Peach Garden 3D: Magic Hoe & Cloud Ox!](https://kunruiw1991.github.io/critters-peachgarden3d/)
+- **#45** · [BoxBoy! + Box Girl! (iPad Zero-Text Web Edition)](https://kunruiw1991.github.io/ipad-box-boy/)
+- **#44** · [Critter Battle Tower 3D: Heart Mob Climb!](https://kunruiw1991.github.io/critters-battletower3d/)
+- **#43** · [Critter Treasure Scoop 3D: Magic Lens & Bun Swap!](https://kunruiw1991.github.io/critters-bunswap3d/)
+- **#42** · [Critter Cozy Bunker 3D: Pocket Vacuum & Snow Hotpot!](https://kunruiw1991.github.io/critters-bunker3d/)
+- **#41** · [Critter Darts 3D: Sunny Carnival Target Shoot!](https://kunruiw1991.github.io/critters-darts3d/)
+- **#40** · [Critter Pizzeria 3D: Cozy Brick-Oven Rush!](https://kunruiw1991.github.io/critters-pizzeria3d/)
+- **#39** · [Critter Rainbow Kitchen: Studio 3D Toy Patisserie](https://kunruiw1991.github.io/critters-kitchen/)
+- **#38** · [Critters Dream Express](https://kunruiw1991.github.io/critters-dream-express/)
+- **#37** · [Critter Quest: Rainbow Island RPG](https://kunruiw1991.github.io/critters-quest-rpg/)
+- **#36** · [Critter Ice Curling 3D: Penguin Glacier Knockout!](https://kunruiw1991.github.io/critters-curling3d/)
+- **#35** · [Critter Helix Tower 3D: Bouncy Cloud Climb!](https://kunruiw1991.github.io/critters-towerjump3d/)
+- **#34** · [Critter Roller Coaster 3D: Star Track Rush!](https://kunruiw1991.github.io/critters-coaster3d/)
+- **#33** · [Critter Air Hockey 3D: Neon Stadium Smash!](https://kunruiw1991.github.io/critters-hockey3d/)
+- **#32** · [Critter Rhythm Taiko 3D: Starlight Concert Stage!](https://kunruiw1991.github.io/critters-rhythm3d/)
+- **#31** · [Critter Mini-Golf 3D: Windmill Wonder Course!](https://kunruiw1991.github.io/critters-golf3d/)
+- **#30** · [Critter Fishing Derby 3D: Rainbow Lagoon!](https://kunruiw1991.github.io/critters-fishing3d/)
+- **#29** · [Critter Sumo Bumpers 3D: Sky Ring Knockout!](https://kunruiw1991.github.io/critters-sumo3d/)
+- **#28** · [Critter Bowling 3D: Rainbow Strike Alley!](https://kunruiw1991.github.io/critters-bowling3d/)
+- **#27** · [Critter Pinball 3D: Rainbow Arcade Bumper Table!](https://kunruiw1991.github.io/critters-pinball3d/)
+- **#26** · [Critter Gobble 3D: Rainbow Toy Island!](https://kunruiw1991.github.io/critters-gobble3d/)
+- **#25** · [Critter Kart 3D: Rainbow Grand Prix!](https://kunruiw1991.github.io/critters-kart3d/)
+- **#24** · [Critter Rainbow Brick Breaker! (萌宠彩虹打砖块)](https://kunruiw1991.github.io/critters-breaker/)
+- **#23** · [Critter Claw & Gold Miner! (黄金矿工 · 萌宠抓抓乐)](https://kunruiw1991.github.io/critters-claw/)
+- **#22** · [Critter Suika Watermelon Merge! (合成大萌宠)](https://kunruiw1991.github.io/critters-suika/)
+- **#21** · [Critter Bubble Pop Rescue! (泡泡龙萌宠大救援)](https://kunruiw1991.github.io/critters-bubble/)
+- **#20** · [Angry Critters: Rainbow Slingshot! (愤怒的萌宠)](https://kunruiw1991.github.io/critters-sling/)
+- **#19** · [Cut the Rope: Feed the Critters! (割绳子喂萌宠)](https://kunruiw1991.github.io/critters-candy/)
+- **#18** · [Critter Splash! (萌宠爱洗澡)](https://kunruiw1991.github.io/critters-bath/)
+- **#17** · [Critter Pop Match-3 (萌宠开心消消乐)](https://kunruiw1991.github.io/critters-match3/)
+- **#16** · [Critter Pac-Maze (萌宠吃豆人)](https://kunruiw1991.github.io/critters-pacman/)
+- **#15** · [Critters Moonfall](https://kunruiw1991.github.io/critters-moonfall/)
+- **#14** · [CritterCraft: Moonless Night](https://kunruiw1991.github.io/critters-mooncraft/)
+- **#13** · [Critter Paint Studio (萌宠涂色画室)](https://kunruiw1991.github.io/critters-paint-studio/)
+- **#12** · [Critter Tank Battle (萌宠坦克大战)](https://kunruiw1991.github.io/critters-tank-battle/)
+- **#11** · [Moonlight Snake Party (月光贪吃蛇派对)](https://kunruiw1991.github.io/moonlight-snake-party/)
+- **#10** · [Mid-Autumn Reunion Party (中秋大团圆)](https://kunruiw1991.github.io/mid-autumn-reunion-party/)
+- **#09** · [Little Hugs: Family Critters Doll Hospital](https://kunruiw1991.github.io/family-critters-doll-hospital/)
+- **#08** · [Critter Repair Workshop 3D (萌宠玩偶修复工坊 3D)](https://kunruiw1991.github.io/critters-repair-workshop/)
+- **#07** · [The Calabash Critters (葫芦萌兽传：七彩仙藤与星月小七妹)](https://kunruiw1991.github.io/critters-calabash-brothers/)
+- **#06** · [Smiling Critters Lianliankan (萌宠连连看)](https://kunruiw1991.github.io/smiling-critters-lianliankan/)
+- **#05** · [Google Family Day × Smiling Critters Studio](https://kunruiw1991.github.io/google-family-day-critters/)
+- **#04** · [Smiling Critters: Havoc in Heaven (小动物大闹天宫)](https://kunruiw1991.github.io/critters-havoc-in-heaven/)
+- **#03** · [Smiling Critters 3D Sky & Airplane Adventure](https://kunruiw1991.github.io/critters-airplane-3d/)
+- **#02** · [Cheer-Up Creative Studio (Boston ↔ Bay Area)](https://kunruiw1991.github.io/cheer-up-studio/)
+- **#01** · [Lumi-Pop Guardians & K-Pop Demon Hunters TV](https://kunruiw1991.github.io/lumipop-kids-tv/)
+
+## 🗂️ Full Chronological Table
 
 | # | Created (UTC) | Game Title | Live Game (GitHub Pages) | GitHub Repo | Engine / Genre | Highlights |
 | :-: | :--- | :--- | :---: | :--- | :--- | :--- |
@@ -68,7 +138,7 @@
 | **62** | `2026-11-08 23:43` | **Playtime Prank RPG 3D: Lily, Giblet & The Smiling Critters' Silly Prank Party!** | [▶️ Play Live](https://kunruiw1991.github.io/playtime-prank-rpg-3d/) | [`playtime-prank-rpg-3d`](https://github.com/kunruiw1991/playtime-prank-rpg-3d) | Three.js r170 3D WebGL Prank RPG • 68 Neural English Voiceovers | Inspired by GameToons' 'CHAPTER 5: CIVIL WAR! (Poppy Playtime Animation)' (YouTube c4AAxXPD8w8 at 24:14): Easy 3D Walking Prank RPG across the Playtime Co. Prank Factory, Glowing Pink Toy Capsule Pod (24:14), Lily Lovebraids' 2-Story Pink & Lavender Dollhouse (32:47), and Smiling Critters Indoor Soccer Court (30:49); 3D Lily Lovebraids + Giblet + Chum Chompkins Trio Rig with Mario 3D Jump & Super Mario Odyssey Returning Prank Gadget Throw; 5 3D Prank Gadgets (GrabPack Hand, Purple Braid Whip, Crumpet Teapot, Makeup Blaster, Prank Remote); 3-Tier Hub Prank Contraptions; and 4 Triggerable Prank Target Bosses (Tea Pod Gracie, Hungry CatNap, Tiny-Legs Prototype, Clown-Makeover Spider-Mech) with 68 neural MP3 voiceovers. |
 | **63** | `2026-11-09 20:37` | **Derpy Tiger Minecraft Chapter 3D: Round-Face & Round-Butt Tiger, Sussie, Rumi & Voxel Mikey Adventure!** | [▶️ Play Live](https://kunruiw1991.github.io/derpy-tiger-minecraft-3d/) | [`derpy-tiger-minecraft-3d`](https://github.com/kunruiw1991/derpy-tiger-minecraft-3d) | Three.js r170 3D WebGL2 • 68 Neural English Voiceovers | Inspired by the Derpy Tiger Minecraft Chapter animation (YouTube EgruEB4oZ2E) and gameplay reference (YouTube WjAyI6kwylA): 5-zone 72x72 Voxel Minecraft Chapter map (Moonlit Rooftop Portal Hub, Village Rooftops & Cookie Garden, Underground Drill Tunnel & Carrot Farm, Red Laser Security House & Closet Portal Loft, Lava Parkour Vault & HUNTR/X Comeback Stage); custom 3D Derpy Tiger rig preserving his round face and twin round butt cheeks (buttL/buttR) from KPop Demon Hunters Repair Workshop 3D alongside Sussie the 6-Eyed Magpie, Rumi, and Voxel Mikey; Mario 3D Jump (#btn-hud-jump / Space) & Super Mario Odyssey returning throw (#btn-hud-drum); 4 Tipped-to-Upright Porcelain Peony Flowerpots, 5 3D Weapons, 4 Quadrant Minecraft Bosses, and 68 neural English MP3 voiceovers. |
 | **64** | `2026-11-10 20:07` | **HUNTR/X & Smiling Critters: The Minish Cap 3D! (塞尔达传说：缩小帽 × HUNTR/X & Smiling Critters)** | [▶️ Play Live](https://kunruiw1991.github.io/huntrix-critters-minish-cap-3d/) | [`huntrix-critters-minish-cap-3d`](https://github.com/kunruiw1991/huntrix-critters-minish-cap-3d) | Three.js r170 3D WebGL2 Size-Shifting Adventure • 68 Neural English Voiceovers | Inspired by Bilibili `BV13c411b7ee` (*The Legend of Zelda: The Minish Cap*): 6 easy-to-reach glowing Minish Shrink Portals (Magic Tree Stump & Tipped Porcelain Jar right beside Hub spawn + 4 tunnel entrance portals, 1-tap & auto-shrink tunnel assist, `0.34x` Minish size scaling + micro-perspective camera zoom); 4 walkable 3D Tiny-Only Micro-Passages (`hollow_log_tunnel`, `dollhouse_mousehole_tunnel`, `lilypad_bamboo_tunnel`, `bookshelf_gear_tunnel`); HUNTR/X Rumi, Mira, Zoey, Derpy Tiger (with round Minhwa face, twin round butt spheres & Ezlo × Sussie Bird-Billed Minish Cap) & Smiling Critters (CatNap, DogDay, Hoppy Hopscotch, Bobby BearHug); 5 Minish Cap weapons (Picori Short Sword, Gust Jar, Cane of Pacci, Mole Mitts, Four Sword), 4 Bosses (Giant ChuChu, Gleerok, Mazaal, Vaati), and 68 neural English MP3 voiceovers. |
-| **65** | `2026-11-11` | **Smiling Critters Drawing & Step-by-Step Coloring School!** | [▶️ Play Live](https://kunruiw1991.github.io/critters-drawing-school/) | [`critters-drawing-school`](https://github.com/kunruiw1991/critters-drawing-school) | HTML5 Canvas 2D / Guided Drawing & 7-Part Coloring Studio | 10 playable lessons (all 8 Smiling Critters: CatNap, DogDay, Bobby BearHug, Hoppy Hopscotch, CraftyCorn, PickyPiggy, Bubba Bubbaphant, KickinChicken + Rainbow Friend & Berry Cupcake Bear), 6 guided drawing steps with animated floating teacher pencil (`START` -> `★`), 7 part-by-part clipped coloring steps (`main_fur`, `inner_ears_muzzle`, `tummy_collar`, `cheeks_mouth`, `magic_pendant`, `shading_sparkles`, `background_frame`) with 4 brushes & `★ PICK ME` color hints, living dance party finale, and 26 neural English voiceovers |
+| **65** | `2026-11-11 01:59` | **Smiling Critters Drawing & Step-by-Step Coloring School!** | [▶️ Play Live](https://kunruiw1991.github.io/critters-drawing-school/) | [`critters-drawing-school`](https://github.com/kunruiw1991/critters-drawing-school) | HTML5 Canvas 2D / Guided Drawing & 7-Part Coloring Studio | 10 playable lessons (all 8 Smiling Critters: CatNap, DogDay, Bobby BearHug, Hoppy Hopscotch, CraftyCorn, PickyPiggy, Bubba Bubbaphant, KickinChicken + Rainbow Friend & Berry Cupcake Bear), 6 guided drawing steps with animated floating teacher pencil (`START` -> `★`), 7 part-by-part clipped coloring steps (`main_fur`, `inner_ears_muzzle`, `tummy_collar`, `cheeks_mouth`, `magic_pendant`, `shading_sparkles`, `background_frame`) with 4 brushes & `★ PICK ME` color hints, living dance party finale, and 26 neural English voiceovers |
 
 ---
 
@@ -80,4 +150,4 @@
 | **Phase 2: 2D Physics & Arcade Classics** | `2026-10-01` – `2026-10-07` | **7** (`#18`–`#24`) | Tactile 2D physics remakes starring Smiling Critters: *Where's My Water?* Fluid Bath, *Cut the Rope*, *Angry Critters Slingshot*, *Bubble Pop*, *Suika Merge*, *Claw & Gold Miner*, and *Brick Breaker*. |
 | **Phase 3: 3D WebGL Sports Series & Grand RPG** | `2026-10-07` – `2026-10-16` | **14** (`#25`–`#38`) | 12 distinct `Three.js` 3D WebGL engines with 120Hz substepped physics & Top-3 Olympic Podium rules (*Kart*, *Gobble*, *Pinball*, *Bowling*, *Sumo*, *Fishing*, *Mini-Golf*, *Taiko Rhythm*, *Air Hockey*, *Coaster*, *Helix Tower*, *Curling*), plus the 16-land *Critter Quest RPG* and *Dream Express*. |
 | **Phase 4: Zero-Text 3D Toy Worlds & iPad BoxBoy** | `2026-10-16` – `2026-10-27` | **11** (`#39`–`#49`) | 100% Zero-Text, tactile 1:1 finger-dragging 3D toy worlds (*Rainbow Kitchen*, *Pizzeria 3D*, *Carnival Darts 3D*, *Cozy Snow Bunker 3D*, *Treasure Scoop & Bun Swap 3D*, *Battle Tower 3D*, *Peach Garden 3D*), *iPad BoxBoy! + Box Girl!*, *Bonny Balls*, *FORi Flower Studio*, and English-voiced *KPop Demon Hunters Repair Workshop 3D*. |
-| **Phase 5: QQ Game Hall 3D Suite & Bilibili Remakes** | `2026-10-29` – `2026-11-09` | **14** (`#50`–`#63`) | `Three.js` WebGL2 *QQ Game Hall 3D Suite* (*QQ Tang 3D*, *Bubble Dragon 3D*, *Aeroplane Chess 3D*, *Watermelon 3D*, *3D Portal*), *Angry Birds Musou (10× Buffed)*, *Panda Pop Star Party*, and 100% English Neural-Voiced 3D Bilibili remakes (*Mob Beauty Pageant 3D*, *New Era for the Myriad Souls*, *Lucky Block Titans 3D*). |
+| **Phase 5: QQ Game Hall 3D Suite & Bilibili Remakes** | `2026-10-29` – `2026-11-11` | **16** (`#50`–`#65`) | `Three.js` WebGL2 *QQ Game Hall 3D Suite* (*QQ Tang 3D*, *Bubble Dragon 3D*, *Aeroplane Chess 3D*, *Watermelon 3D*, *3D Portal*), *Angry Birds Musou (10× Buffed)*, *Panda Pop Star Party*, and 100% English Neural-Voiced 3D Bilibili remakes (*Mob Beauty Pageant 3D*, *New Era for the Myriad Souls*, *Lucky Block Titans 3D*). |
