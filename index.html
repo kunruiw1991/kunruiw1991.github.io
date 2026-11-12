@@ -935,6 +935,20 @@
     const sortToggle = document.getElementById("sortToggle");
     const searchInput = document.getElementById("searchInput");
 
+    window.onThumbError = function(img, numStr, slug) {
+      if (!img.dataset.triedLocal && slug) {
+        img.dataset.triedLocal = "1";
+        img.src = "thumbs/" + slug + ".jpg";
+        return;
+      }
+      img.onerror = null;
+      img.style.display = "none";
+      const fb = document.createElement("div");
+      fb.style.cssText = "font-size:2.4rem;font-weight:900;color:#5C3D2E;display:flex;align-items:center;justify-content:center;width:100%;height:100%;";
+      fb.textContent = "🎮 #" + numStr;
+      if (img.parentElement) img.parentElement.appendChild(fb);
+    };
+
     function render() {
       const filtered = GAMES.filter(g => {
         if (activePhase !== "ALL" && g.phase !== activePhase) return false;
@@ -954,7 +968,7 @@
         <article class="card">
           <a href="${g.playUrl}" target="_blank" rel="noopener" class="thumb-wrap">
             <img src="${g.thumbUrl}" alt="${g.title}" loading="lazy"
-                 onerror="this.style.display='none'; this.parentElement.insertAdjacentHTML('beforeend', '<div style=\'font-size:2.4rem;font-weight:900;color:#5C3D2E\'>🎮 #${g.numStr}</div>');" />
+                 onerror="window.onThumbError(this, '${g.numStr}', '${g.slug}')" />
             <span class="badge-num">#${g.numStr}</span>
             <span class="badge-date">${g.date.slice(0, 10)}</span>
           </a>
