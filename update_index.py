@@ -66,37 +66,38 @@ def main():
         footer = "\n---\n\n## 📊 Summary by Phase" + old_readme.split("\n---\n\n## 📊 Summary by Phase", 1)[1]
 
     md_lines = [
-        f"# 📌 Complete Chronological Game Index (`#01` → `#{last_num}`)",
+        f"# 📌 Complete Chronological Game Index (`#{last_num}` → `#01`)",
         "",
-        f"> **Live Arcade Homepage**: [https://kunruiw1991.github.io/](https://kunruiw1991.github.io/) · **{total} Playable Kids' Web Games & Interactive Studios** (`{first_date}` to `{last_date}`, sorted in chronological order).",
+        f"> **Live Arcade Homepage**: [https://kunruiw1991.github.io/](https://kunruiw1991.github.io/) · **{total} Playable Kids' Web Games & Interactive Studios** (`{first_date}` to `{last_date}`, sorted in reverse chronological order — newest first).",
         "",
         "## 📱 Quick Play List (tap a game — newest first)",
         "",
         *[f"- **#{g['numStr']}** · [{g['title']}]({g['playUrl']})" for g in reversed(games)],
         "",
-        "## 🗂️ Full Chronological Table",
+        "## 🗂️ Full Reverse-Chronological Table (Newest → Oldest)",
         "",
         "| # | Created (UTC) | Game Title | Live Game (GitHub Pages) | GitHub Repo | Engine / Genre | Highlights |",
         "| :-: | :--- | :--- | :---: | :--- | :--- | :--- |",
     ]
-    for g in games:
+    for g in reversed(games):
         md_lines.append(
             f"| **{g['numStr']}** | `{g['date']}` | **{g['title']}** | [▶️ Play Live]({g['playUrl']}) | [`{g['slug']}`]({g['repoUrl']}) | {g['genre']} | {g['desc']} |"
         )
     with open(README_PATH, "w", encoding="utf-8") as f:
         f.write("\n".join(md_lines) + "\n" + footer)
 
-    # 2. Update index.html (header counts, phase badge counts, and const GAMES JSON — visual image cards only, no top table)
+    # 2. Update index.html (header counts, phase badge counts, and const GAMES JSON — visual image cards only, newest first by default)
     with open(HTML_PATH, "r", encoding="utf-8") as f:
         html = f.read()
 
     html = re.sub(r'<section class="pinned-section">.*?</section>\s*', "", html, flags=re.S)
     html = re.sub(r"#01 → #\d+", f"#01 → #{last_num}", html)
+    html = re.sub(r"#\d+ → #01", f"#{last_num} → #01", html)
     html = re.sub(r"#01→#\d+", f"#01→#{last_num}", html)
     html = re.sub(r"#\d+→#01", f"#{last_num}→#01", html)
     html = re.sub(r"All \d+ Games", f"All {total} Games", html)
     html = re.sub(r"<strong>\d+ Kids' Web Games", f"<strong>{total} Kids' Web Games", html)
-    html = re.sub(r"to <strong>\d{4}-\d{2}-\d{2}</strong> in strict", f"to <strong>{last_date}</strong> in strict", html)
+    html = re.sub(r"to <strong>\d{4}-\d{2}-\d{2}</strong> in (?:strict|reverse)", f"to <strong>{last_date}</strong> in reverse", html)
     for ph in sorted({g["phase"] for g in games}):
         n = sum(1 for g in games if g["phase"] == ph)
         html = re.sub(r'(data-phase="' + re.escape(ph).replace("&", "&(?:amp;)?") + r'">[^<]*\()\d+(\)</button>)', lambda m: f"{m.group(1)}{n}{m.group(2)}", html)
