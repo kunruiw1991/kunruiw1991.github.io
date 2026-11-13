@@ -86,24 +86,11 @@ def main():
     with open(README_PATH, "w", encoding="utf-8") as f:
         f.write("\n".join(md_lines) + "\n" + footer)
 
-    # 2. Update index.html (pinned table rows, header counts, and const GAMES JSON)
+    # 2. Update index.html (header counts, phase badge counts, and const GAMES JSON — visual image cards only, no top table)
     with open(HTML_PATH, "r", encoding="utf-8") as f:
         html = f.read()
 
-    rows_html = "\n".join([
-        f"""          <tr>
-            <td class="col-num"><strong>#{g['numStr']}</strong></td>
-            <td class="col-date"><code>{g['date']}</code></td>
-            <td class="col-title"><a href="{g['playUrl']}" target="_blank" rel="noopener"><strong>{g['title']}</strong></a></td>
-            <td class="col-play"><a class="table-play-btn" href="{g['playUrl']}" target="_blank" rel="noopener">▶️ Play Live</a></td>
-            <td class="col-repo"><a href="{g['repoUrl']}" target="_blank" rel="noopener"><code>{g['slug']}</code></a></td>
-            <td class="col-genre"><span class="genre-badge">{g['genre']}</span></td>
-            <td class="col-desc">{g['desc']}</td>
-          </tr>"""
-        for g in games
-    ])
-
-    html = re.sub(r"<tbody>\s*.*?\s*</tbody>", f"<tbody>\n{rows_html}\n          </tbody>", html, flags=re.S)
+    html = re.sub(r'<section class="pinned-section">.*?</section>\s*', "", html, flags=re.S)
     html = re.sub(r"#01 → #\d+", f"#01 → #{last_num}", html)
     html = re.sub(r"#01→#\d+", f"#01→#{last_num}", html)
     html = re.sub(r"#\d+→#01", f"#{last_num}→#01", html)
